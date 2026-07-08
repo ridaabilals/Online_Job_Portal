@@ -779,7 +779,7 @@ foreach ($jobViewCandidates as $fs => $web) {
         <div class="mb-4">
             <div class="d-flex justify-content-between align-items-center mb-3">
                 <h3 class="section-title mb-0">Recent Job Postings</h3>
-                <a href="../jobs/view_jobs.php" class="btn btn-outline-gradient">
+                <a href="../jobs/my_jobs.php" class="btn btn-outline-gradient">
                     <i class="fas fa-list me-2"></i>View All
                 </a>
             </div>
